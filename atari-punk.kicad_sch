@@ -2089,7 +2089,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f693b5bf-7fea-4034-a3f1-b7b48ee22d4f)
     (property "Reference" "D1" (id 0) (at 66.04 131.9235 0))
-    (property "Value" "1N5189" (id 1) (at 66.04 134.6986 0))
+    (property "Value" "1N5818" (id 1) (at 66.04 134.6986 0))
     (property "Footprint" "Rumblesan_Footprints:Diode_THT_P7.62mm_Horizontal" (id 2) (at 66.04 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2221,7 +2221,7 @@
       (reference "C7") (unit 1) (value "10uF") (footprint "Rumblesan_Footprints:CP_Radial_D6.3mm_P2.50mm")
     )
     (path "/f693b5bf-7fea-4034-a3f1-b7b48ee22d4f"
-      (reference "D1") (unit 1) (value "1N5189") (footprint "Rumblesan_Footprints:Diode_THT_P7.62mm_Horizontal")
+      (reference "D1") (unit 1) (value "1N5818") (footprint "Rumblesan_Footprints:Diode_THT_P7.62mm_Horizontal")
     )
     (path "/be2d1623-0d0f-4730-b032-0865032586a5"
       (reference "D2") (unit 1) (value "LED") (footprint "LED_THT:LED_D5.0mm")
